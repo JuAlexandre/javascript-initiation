@@ -1,5 +1,7 @@
 # Challenge
 
+![Demo](https://riderx.github.io/gistRender/?https://raw.githubusercontent.com/JuAlexandre/Javascripting/master/index.html)
+
 # Afficher un tas de patates
 
 Créer une page HTML contenant un script qui pose la question `"Hey mon ami ! Tu aimes ça les patates ?"` au visiteur.
