@@ -1,5 +1,3 @@
-console.log('Ca fonctionne !');
-
 let choice = prompt('Hey mon ami ! Tu aimes ça les patates ?');
 
 if (choice.toLowerCase() == 'oui') {
