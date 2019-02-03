@@ -1,16 +1,14 @@
-# Challenge
+# javascript-initiation
 
-[Demo](https://riderx.github.io/gistRender/?https://raw.githubusercontent.com/JuAlexandre/Javascripting/master/index.html)
+# Instruction
 
-# Afficher un tas de patates
+Create an HTML page containing a script that asks the question `Hey my friend, do you like that sweet potatoes?` to the visitor.
 
-Créer une page HTML contenant un script qui pose la question `"Hey mon ami ! Tu aimes ça les patates ?"` au visiteur.
+If the answer is positive show a bunch of 7-level potatoes as below, in the browser console.
 
-Si la réponse est positive afficher un tas de patates de 7 niveaux comme ci-dessous, dans la console du navigateur (en utilisant une boucle `for`).
+If the answer is negative, display a disappointment message in an alert box.
 
-Si la réponse est négative afficher un message de déception dans une alerte.
-
-Si la réponse n'est ni positive ni négative afficher `"Je vous sens comme tiraillé"` dans une alerte.
+If the answer is neither positive nor negative, show `I feel like you are torn` in an alert box.
 
 ```
 #
@@ -20,4 +18,12 @@ Si la réponse n'est ni positive ni négative afficher `"Je vous sens comme tira
 #####
 ######
 #######
+```
+
+## Installation
+
+Clone the repository and open the `index.html` file in your browser.
+
+```
+git clone https://github.com/JuAlexandre/javascript-initiation.git
 ```
